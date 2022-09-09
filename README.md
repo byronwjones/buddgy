@@ -1,0 +1,2 @@
+# buddgy
+Budget Management Application
